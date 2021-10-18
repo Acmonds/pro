@@ -9,9 +9,7 @@ public class Test {
         System.out.println(l1.toString());
         System.out.println(l2.toString());
         */
-        Student stu=new Student();
-        stu.setGPA(3.1);
-        System.out.println(stu.getGPA());
+
 
 
 
